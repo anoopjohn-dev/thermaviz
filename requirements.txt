@@ -1,0 +1,6 @@
+numpy>=1.26
+opencv-python>=4.9
+smbus2>=0.4        # I2C (Linux)
+paho-mqtt>=1.6     # optional: MQTT alerting
+fastapi>=0.110     # optional: web stream server
+uvicorn>=0.27
